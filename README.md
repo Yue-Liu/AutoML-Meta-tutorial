@@ -1,4 +1,3 @@
-# AutoML-Meta-tutorial
-Slides of AutoML and Meta-learning for Multimedia tutorial
+# AutoML and Meta-learning for Multimedia at ACM MM 2019
 
-ACM MM 2019
+Slides download [here](https://github.com/Yue-Liu/AutoML-Meta-tutorial/raw/master/AutoML_Meta_MM_tutorial.pdf)
